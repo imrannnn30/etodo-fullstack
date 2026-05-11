@@ -70,7 +70,7 @@ Authentication flow :
 
 ## Project context
 
-- **Year** : 2024–2025
+- **Year** : 2025–2026
 - **School** : Epitech Bachelor, Mulhouse
 - **Team** : 2 members (with Zacharie Mando)
 - **Course** : Web Development (B-WEB-101)
