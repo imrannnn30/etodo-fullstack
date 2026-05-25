@@ -72,7 +72,7 @@ Authentication flow :
 
 - **Year** : 2025–2026
 - **School** : Epitech Bachelor, Mulhouse
-- **Team** : 2 members (with Zacharie Mando)
+- **Team** : 2 members
 - **Course** : Web Development (B-WEB-101)
 
 ## Note
@@ -81,4 +81,4 @@ This is a portfolio summary. The full source code is private per Epitech academi
 
 ---
 
-[Imran Nogueira](https://github.com/imrannnn30) · MMXXVI
+[Imran Nogueira](https://github.com/imrannnn30)
